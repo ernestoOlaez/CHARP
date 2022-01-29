@@ -1,0 +1,15 @@
+C:\Git\CHARP\CSHARP\CSHARP\bin\Debug\net6.0\CSHARP.exe
+C:\Git\CHARP\CSHARP\CSHARP\bin\Debug\net6.0\CSHARP.deps.json
+C:\Git\CHARP\CSHARP\CSHARP\bin\Debug\net6.0\CSHARP.runtimeconfig.json
+C:\Git\CHARP\CSHARP\CSHARP\bin\Debug\net6.0\CSHARP.dll
+C:\Git\CHARP\CSHARP\CSHARP\bin\Debug\net6.0\ref\CSHARP.dll
+C:\Git\CHARP\CSHARP\CSHARP\bin\Debug\net6.0\CSHARP.pdb
+C:\Git\CHARP\CSHARP\CSHARP\obj\Debug\net6.0\CSHARP.csproj.AssemblyReference.cache
+C:\Git\CHARP\CSHARP\CSHARP\obj\Debug\net6.0\CSHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\CHARP\CSHARP\CSHARP\obj\Debug\net6.0\CSHARP.AssemblyInfoInputs.cache
+C:\Git\CHARP\CSHARP\CSHARP\obj\Debug\net6.0\CSHARP.AssemblyInfo.cs
+C:\Git\CHARP\CSHARP\CSHARP\obj\Debug\net6.0\CSHARP.csproj.CoreCompileInputs.cache
+C:\Git\CHARP\CSHARP\CSHARP\obj\Debug\net6.0\CSHARP.dll
+C:\Git\CHARP\CSHARP\CSHARP\obj\Debug\net6.0\ref\CSHARP.dll
+C:\Git\CHARP\CSHARP\CSHARP\obj\Debug\net6.0\CSHARP.pdb
+C:\Git\CHARP\CSHARP\CSHARP\obj\Debug\net6.0\CSHARP.genruntimeconfig.cache
