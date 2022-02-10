@@ -5,7 +5,7 @@
     <TargetFramework>net6.0-windows</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>CSHARP.Chapter1.Welcome1</StartupObject>
+    <StartupObject>CSHARP.Chapter1.Welcome3</StartupObject>
   </PropertyGroup>
 
 </Project>

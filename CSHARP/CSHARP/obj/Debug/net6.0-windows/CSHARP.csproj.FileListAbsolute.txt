@@ -12,3 +12,4 @@ C:\Git\CHARP\CSHARP\CSHARP\obj\Debug\net6.0-windows\CSHARP.dll
 C:\Git\CHARP\CSHARP\CSHARP\obj\Debug\net6.0-windows\ref\CSHARP.dll
 C:\Git\CHARP\CSHARP\CSHARP\obj\Debug\net6.0-windows\CSHARP.pdb
 C:\Git\CHARP\CSHARP\CSHARP\obj\Debug\net6.0-windows\CSHARP.genruntimeconfig.cache
+C:\Git\CHARP\CSHARP\CSHARP\obj\Debug\net6.0-windows\CSHARP.csproj.AssemblyReference.cache
